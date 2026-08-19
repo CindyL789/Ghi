@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Stitchmind"
+rootProject.name = "Stitch Mind"
 
 include(":app")

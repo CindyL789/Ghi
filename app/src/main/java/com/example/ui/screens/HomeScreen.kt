@@ -131,7 +131,7 @@ fun HomeScreen(
                                     color = MaterialTheme.colorScheme.onPrimaryContainer
                                 )
                                 Text(
-                                    text = if (userProfile?.isLoggedIn == true) userProfile.email else "Stitchmind Crochet Companion",
+                                    text = if (userProfile?.isLoggedIn == true) userProfile.email else "Stitch Mind Crochet Companion",
                                     style = MaterialTheme.typography.bodyMedium,
                                     color = MaterialTheme.colorScheme.onSurfaceVariant
                                 )

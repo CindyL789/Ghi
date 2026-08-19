@@ -1,5 +1,5 @@
 {
-  "name": "Stitchmind",
+  "name": "Stitch Mind",
   "description": "All-in-one crochet companion with row counters, pattern step trackers, yarn stash manager, gauge calculators, and AI craft helper.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

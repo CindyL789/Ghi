@@ -171,7 +171,9 @@ fun LoopCrochetApp(
 
             composable(Screen.Assistant.route) {
                 AssistantScreen(
-                    viewModel = assistantViewModel
+                    viewModel = assistantViewModel,
+                    crochetViewModel = crochetViewModel,
+                    onNavigateToCounter = { navController.navigate(Screen.Counter.route) }
                 )
             }
 
